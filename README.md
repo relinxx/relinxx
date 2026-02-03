@@ -22,7 +22,7 @@ I'm deeply fascinated by the intersection of **Artificial Intelligence**, **Web 
 
 ### 🎯 Current Adventures
 
-<!-- Removed adventures section -->
+<!-- Placeholder removed -->
 
 💼 **Experience**
 
@@ -30,7 +30,7 @@ Building web apps, ML pipelines, and DevOps automation tools
 
 🎓 **Expertise**
 
-Python, JavaScript/TypeScript, Flask, React, AI/ML
+Python, JavaScript/TypeScript, Flask, React, AI/ML, RAG
 
 🌟 **Achievements**
 

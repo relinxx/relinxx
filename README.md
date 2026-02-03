@@ -111,12 +111,12 @@ const relinxx = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=relinxx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=relinxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=relinxx&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=relinxx&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relinxx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="400"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=relinxx&theme=tokyonight&layout=compact)
+
 </div>
 
 ---
@@ -124,27 +124,34 @@ const relinxx = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=relinxx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  
+![](https://github-profile-trophy.vercel.app/?username=relinxx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=relinxx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=relinxx&theme=tokyo-night&hide_border=true&area=true)](https://github.com/relinxx)
+
+![Snake animation](https://github.com/relinxx/relinxx/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=Exo-Detector&theme=tokyonight)](https://github.com/relinxx/Exo-Detector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=qa_application&theme=tokyonight)](https://github.com/relinxx/qa_application)
 
-[![Exo-Detector](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=Exo-Detector&theme=tokyonight&hide_border=true)](https://github.com/relinxx/Exo-Detector)
-[![qa_application](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=qa_application&theme=tokyonight&hide_border=true)](https://github.com/relinxx/qa_application)
-[![naive_rag](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=naive_rag&theme=tokyonight&hide_border=true)](https://github.com/relinxx/naive_rag)
-[![Al-dhikr-project](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=Al-dhikr-project&theme=tokyonight&hide_border=true)](https://github.com/relinxx/Al-dhikr-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=naive_rag&theme=tokyonight)](https://github.com/relinxx/naive_rag)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=Al-dhikr-project&theme=tokyonight)](https://github.com/relinxx/Al-dhikr-project)ref="https://github.com/relinxx/Al-dhikr-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=Al-dhikr-project&theme=tokyonight&hide_border=false" alt="Al-dhikr-project" />
+</a>
 
 </div>
 

@@ -111,21 +111,20 @@ const relinxx = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=relinxx&show_icons=true&theme=tokyonight&count_private=true" /></td>
-      <td><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=relinxx&theme=tokyonight" /></td>
-    </tr>
-  </table>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relinxx&theme=tokyonight&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=relinxx&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=relinxx&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relinxx&theme=tokyonight&layout=compact" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<d<img src="https://github-profile-trophy.vercel.app/?username=relinxx&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />![](https://github-profile-trophy.vercel.app/?username=relinxx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=relinxx&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---

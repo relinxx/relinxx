@@ -22,13 +22,7 @@ I'm deeply fascinated by the intersection of **Artificial Intelligence**, **Web 
 
 ### 🎯 Current Adventures
 
-🔭 **Working On**
-
-AI-powered applications & RAG implementations with LangChain
-
-🌱 **Learning**
-
-Advanced LangGraph, Kubernetes, and cutting-edge AI frameworks
+<!-- Removed adventures section -->
 
 💼 **Experience**
 

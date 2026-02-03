@@ -134,10 +134,8 @@ const relinxx = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=relinxx&theme=tokyo-night&hide_border=true&area=true)](https://github.com/relinxx)
 
-![Snake animation](https://github.com/relinxx/relinxx/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=relinxx&theme=tokyo-night&hide_border=true&area=true&hide_title=false)](https://github.com/relinxx)
 
 </div>
 

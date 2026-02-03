@@ -141,6 +141,14 @@ const relinxx = {
 
 ---
 
+## 🐍 Snake Animation
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/relinxx/relinxx/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## 🌟 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=relinxx&repo=Exo-Detector&theme=tokyonight)](https://github.com/relinxx/Exo-Detector)

@@ -2,132 +2,83 @@
 
 # Syed Muhammad Rehan
 
-### AI-focused Software Engineer building production RAG systems, AI agents, NL2SQL workflows, and Azure-deployed automation.
+### Systems, Automation & AI Software Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-relinxx.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://relinxx.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Muhammad%20Rehan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muhammad-rehan-relinxx)
+I build reliable workflows, API integrations, data systems, and applied AI solutions from technical discovery through testing, client walkthroughs, and handover.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-relinxx.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://relinxx.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-relinxx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/relinxx/)
 [![Email](https://img.shields.io/badge/Email-rehankaneki%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehankaneki@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=relinxx&style=flat-square&color=8B5CF6)
 
 </div>
 
----
+## What I work on
 
-## What I Build
-
-I work on practical AI systems that move beyond impressive demos and into useful products. My strongest work sits around retrieval, agents, backend APIs, cloud deployment, and turning messy business data into reliable user-facing workflows.
-
-- Production RAG assistants with document ingestion, OCR, vector search, and citation-grounded answers.
-- Schema-aware NL2SQL agents for business users who need answers without writing queries.
-- Autonomous QA agents that explore web apps, discover flows, generate tests, and stream progress.
-- Multi-agent geospatial systems combining ML, RAG, GIS analysis, and planning workflows.
-- Azure deployments using AI Search, Azure OpenAI, Function Apps, Bot Service, SQL, Teams, and Copilot Studio.
+- **Workflow automation:** n8n, webhooks, branching, human approvals, persistence, monitoring, retries, and explicit error handling.
+- **Systems integration:** REST APIs, JSON contracts, Python and Node.js services, SQL databases, SharePoint, Teams, and Azure services.
+- **Applied AI:** RAG, LLM agents, NL2SQL, vector search, MCP, browser automation, and evaluation workflows.
+- **Client delivery:** requirements discovery, architecture, implementation updates, technical walkthroughs, QA, documentation, and handover.
 
 ```ts
-const relinxx = {
-  name: "Syed Muhammad Rehan",
-  role: "AI-focused Software Engineer",
+const rehan = {
+  role: "Software Engineer at Logic Powered Solutions",
+  experience: "1.5 years",
   location: "Rawalpindi, Pakistan",
-  focus: ["RAG", "AI Agents", "NL2SQL", "Azure", "Python", "FastAPI"],
-  current: "Software Engineer at Logic Powered Solutions",
-  portfolio: "https://relinxx.vercel.app",
+  strengths: ["automation", "API integrations", "client delivery", "applied AI"],
+  stack: ["n8n", "Python", "FastAPI", "Node.js", "Azure", "SQL", "PostgreSQL"],
 };
 ```
 
----
+## Featured systems
 
-## Featured Work
+| Work | What I owned | Core tools |
+| --- | --- | --- |
+| [Multi-Agent Research Automation](https://relinxx.vercel.app/projects/multi-agent-research-automation) | Webhook intake, parallel research sources, fallbacks, evidence scoring, agent review and revision, persistence, monitoring, and failure notification. | n8n, FastAPI, Qdrant, PostgreSQL, LLM agents |
+| [Leadership Briefing & Approval Automation](https://relinxx.vercel.app/projects/leadership-briefing-approval-automation) | Intake normalization, duplicate checks, AI classification and risk analysis, deterministic validation, human approval routing, brief generation, and audit logging. | n8n, webhooks, forms, LLM agents, approval controls |
+| [Enterprise Knowledge & Data Automation](https://relinxx.vercel.app/projects/watermark-enterprise-automation) | Sole implementation ownership for a paid client engagement spanning architecture, integrations, evaluation, Azure deployment, walkthroughs, and handover. | Azure AI Search, SharePoint, Copilot Studio, Azure SQL, Functions, Teams |
+| [Autonomous QA Application](https://github.com/relinxx/qa_application) | Agent loop, browser tooling, autonomous flow discovery, test generation and execution, streaming progress, and path-safety controls. | Next.js, Node.js, Playwright, MCP, SSE |
 
-| Project | What it does | Stack | Access |
-| --- | --- | --- | --- |
-| [Autonomous QA Application](https://github.com/relinxx/qa_application) | Explores web apps, discovers user flows, generates Playwright tests, executes them, and streams progress in real time. | Next.js, Node.js, GPT-4o, Playwright, MCP, SSE | Public repo |
-| [B.M.O Interactive AI Character](https://github.com/relinxx/B.M.O) | Voice-enabled 3D conversational character with vector memory, speech input, generated responses, and state-driven expressions. | Next.js, React Three Fiber, FastAPI, ChromaDB, Whisper | Public repo |
-| [Watermarks Enterprise RAG](https://relinxx.vercel.app/projects/watermarks-enterprise-rag) | Teams-accessible knowledge assistant for SharePoint-indexed construction documents with OCR, retrieval, and citations. | Azure AI Search, Azure OpenAI, SharePoint, Teams, Copilot Studio | Client work |
-| [Natural Language SQL Agent](https://relinxx.vercel.app/projects/natural-language-sql-agent) | Converts plain-English business questions into SQL across multiple Azure SQL databases and returns readable answers. | Python, Azure SQL, Azure Function App, Azure Bot Service | Client work |
-| [GeoVision](https://relinxx.vercel.app/projects/geovision) | Multi-agent land-use planning system combining environmental suitability, zoning retrieval, and GIS optimization. | React, FastAPI, XGBoost, ChromaDB, GeoPandas | Private project |
+## Delivery approach
 
----
+1. **Discover:** clarify the outcome, systems, data movement, owners, failure points, and acceptance criteria.
+2. **Connect:** implement APIs, webhooks, validation, routing, persistence, and human control where it matters.
+3. **Test:** exercise success, retry, timeout, malformed-input, rejection, and no-result paths.
+4. **Handover:** demonstrate clearly, document decisions, and leave a usable runbook.
 
-## Tech Stack
+## Technical toolkit
 
-**AI, RAG, and agents**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-4F46E5?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-111827?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square)
-![NL2SQL](https://img.shields.io/badge/NL2SQL-2563EB?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-9333EA?style=flat-square)
+**Automation and integration**
 
-**Backend and product engineering**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+`n8n` `REST APIs` `Webhooks` `JSON` `Conditional Routing` `Human Approval` `Audit Logging` `MCP` `Playwright`
 
-**Cloud, data, and delivery**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square)
-![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-2563EB?style=flat-square)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Backend, data, and cloud**
 
----
+`Python` `FastAPI` `Node.js` `Azure Functions` `Azure SQL` `PostgreSQL` `SQLite` `Docker` `GitHub Actions` `Vercel`
+
+**AI systems**
+
+`RAG` `LLM Agents` `LangChain` `LangGraph` `Azure AI Search` `Azure OpenAI` `Copilot Studio` `NL2SQL` `Qdrant` `ChromaDB`
+
+## Verified outcomes
+
+- Delivered a client-facing Azure retrieval workflow with **20,934 indexed records**.
+- Improved a fixed 15-case agent evaluation from **11/15 to 15/15 marked passes** through structured iteration.
+- Built guarded natural-language access across **three Azure SQL databases**.
+- Worked directly with international stakeholders through technical demonstrations, feedback cycles, and handover.
 
 ## Credentials
 
+- [Build AI Agents with n8n](https://www.linkedin.com/learning/certificates/caf7e98cbc5a1afa422dd895c157eefbeac69310e2cafc39552a9e01037cc53b/) - LinkedIn Learning
 - [Microsoft Azure Essentials Professional Certificate](https://www.linkedin.com/learning/certificates/dfd95eeb61cbb47d2c8a183435e7b572880941e181033022db369a91820f5152) - Microsoft and LinkedIn Learning
+- [Azure for Developers: RAG with Azure AI](https://www.linkedin.com/learning/certificates/d96e659ff6a39caad22564964ddc33f9f2ca799ac9d0cc86fd61e1a95234b77c/) - LinkedIn Learning
+- [Vector Databases Professional Certificate](https://www.linkedin.com/learning/certificates/98ebd63e847ed3b7dfe04be8d9ec381d4045524da2c192e51debcef48840f467/) - Weaviate
+- [Introduction to AI-Native Vector Databases](https://www.linkedin.com/learning/certificates/b9d2330c18248a8eb4dafc8475769bec7f5957e181ff15b9e66b88de75db7671/) - LinkedIn Learning
 - [Practical GitHub Actions](https://www.linkedin.com/learning/certificates/424f978825888f35e94c41459f8375019c8f73fd6d5a843950f0fad6a602210d) - LinkedIn Learning
-
-More certificates are incoming, so this section is intentionally built to grow without becoming cluttered.
-
----
-
-## GitHub Signal
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=relinxx&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=relinxx&theme=tokyo-night&hide_border=true&area=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=relinxx&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Current Direction
-
-I am focused on becoming the kind of engineer who can take an AI idea from rough requirements to a working, deployed system:
-
-- cleaner RAG evaluation and retrieval quality checks
-- safer NL2SQL generation and query validation
-- agent workflows with real observability and guardrails
-- demo-ready AI products that recruiters and clients can actually try
-- strong public case studies without exposing private client data
-
----
 
 ## Contact
 
-I am open to AI engineering roles, backend-heavy AI product work, and focused freelance projects around RAG, agents, NL2SQL, automation, and Azure deployment.
+I am open to systems automation, solutions engineering, and applied AI roles with client-facing ownership.
 
 - Portfolio: [relinxx.vercel.app](https://relinxx.vercel.app)
-- LinkedIn: [syed-muhammad-rehan-relinxx](https://linkedin.com/in/syed-muhammad-rehan-relinxx)
+- LinkedIn: [linkedin.com/in/relinxx](https://www.linkedin.com/in/relinxx/)
 - Email: [rehankaneki@gmail.com](mailto:rehankaneki@gmail.com)
-
----
-
-<div align="center">
-
-Built with intent. Kept practical. Updated June 2026.
-
-</div>
